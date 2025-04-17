@@ -33,7 +33,7 @@
 - 📊 **History**: Logs into `barcha_history.db`  
 
 📸 Screenshots
-<p align="center"> <img src="docs/screenshots/run1.png" alt="Barcha Scan Preview 1" width="600"/><br> <em>Figure 1. Live host detection & redirect checks.</em> </p> <p align="center"> <img src="docs/screenshots/run2.png" alt="Barcha Ghauri Integration" width="600"/><br> <em>Figure 2. Per‑host SQLi testing via Ghauri.</em> </p>
+<p align="center"> <img src="docs/screenshots/run1.png" alt="Barcha Scan Preview 1" width="600"/><br> <em>Figure 1. Per‑host SQLi testing via Ghauri. </em> </p> <p align="center"> <img src="docs/screenshots/run2.png" alt="Barcha Ghauri Integration" width="600"/><br> <em>Figure 2. Live host detection & redirect checks.</em> </p>
 
 ## 📋 Requirements
 
