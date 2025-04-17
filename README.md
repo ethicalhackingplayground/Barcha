@@ -47,13 +47,13 @@
 ### From Source
 
 ```bash
-**git clone https://github.com/youruser/barcha.git
+git clone https://github.com/youruser/barcha.git
 cd barcha
 go mod tidy
-go build -o barcha main.go**
+go build -o barcha main.go
 or
-**go install github.com/S1N6H/Barcha@latest
-**
+go install github.com/S1N6H/Barcha@latest
+
 
 🏃 Usage
 Export your Shodan key
