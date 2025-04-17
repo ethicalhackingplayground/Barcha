@@ -44,14 +44,14 @@
 
 ## ⚡ Installation
 
-### From Source
+Clone and build from source:
 
-
-git clone https://github.com/youruser/barcha.git
-cd barcha
+git clone https://github.com/S1N6H/Barcha.git
+cd Barcha
 go mod tidy
 go build -o barcha main.go
-or
+Or install directly via Go modules:
+
 go install github.com/S1N6H/Barcha@latest
 
 
