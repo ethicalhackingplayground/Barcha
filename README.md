@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/youruser/barcha/main/banner.png" alt="Barcha Banner" width="600"/>
+  <img src="[https://raw.githubusercontent.com/youruser/barcha/main/banner.png](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-63ac-622f-907d-c3131a842230/raw?se=2025-04-17T13%3A26%3A37Z&sp=r&sv=2024-08-04&sr=b&scid=246b7070-c341-58ac-b9de-c97cd8a66cd2&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-16T21%3A27%3A13Z&ske=2025-04-17T21%3A27%3A13Z&sks=b&skv=2024-08-04&sig=xuYYFk5fLiKILoulz%2Bgl3V/UQevsRgaSwZoSJFZK9%2BE%3D)" alt="Barcha Banner" width="600"/>
 </p>
 
 # 🚀 Barcha
