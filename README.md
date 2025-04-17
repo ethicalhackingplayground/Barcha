@@ -46,7 +46,7 @@
 
 ### From Source
 
-```bash
+
 git clone https://github.com/youruser/barcha.git
 cd barcha
 go mod tidy
