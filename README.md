@@ -52,7 +52,6 @@ go mod tidy
 go build -o barcha main.go
 Or install directly via Go modules:
 
-go install github.com/S1N6H/Barcha@latest
 
 
 🏃 Usage
