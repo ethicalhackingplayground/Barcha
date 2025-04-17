@@ -62,6 +62,7 @@ export SHODAN_API_KEY="YOUR_SHODAN_API_KEY"
 Run Barcha
 
 ./barcha
+
 Enter your target domain when prompted (e.g. example.com)
 
 Watch it go! 🎉
