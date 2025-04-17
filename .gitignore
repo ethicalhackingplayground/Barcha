@@ -1,0 +1,17 @@
+# Binaries
+barcha
+
+# Go build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Local DB / outputs
+barcha_history.db
+ips.txt
+vulnerable-sql.txt
+
+# Editor temp files
+*~
+.DS_Store
