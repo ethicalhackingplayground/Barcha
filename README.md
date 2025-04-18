@@ -43,9 +43,6 @@
 
 
 ## ⚡ Installation
-
-Clone and build from source:
-
 ```bash
 go install github.com/S1N6H/Barcha@latest
 ```
