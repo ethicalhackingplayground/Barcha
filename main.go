@@ -25,7 +25,6 @@ const (
     dbFile   = "barcha_history.db"
 )
 
-// HTTP client for Shodan API: longer timeout, skip TLS verify
 var shodanClient = &http.Client{
     Timeout: 30 * time.Second,
     Transport: &http.Transport{
@@ -33,7 +32,6 @@ var shodanClient = &http.Client{
     },
 }
 
-// HTTP client for scanning hosts: shorter timeout, skip TLS, follow redirects
 var scanClient = &http.Client{
     Timeout: 5 * time.Second,
     Transport: &http.Transport{
