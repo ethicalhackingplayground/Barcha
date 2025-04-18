@@ -47,9 +47,6 @@
 Clone and build from source:
 
 ```bash
-git clone https://github.com/S1N6H/Barcha.git
-```
-```bash
 go install github.com/S1N6H/Barcha@latest
 ```
 
